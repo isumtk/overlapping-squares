@@ -1,4 +1,4 @@
-# Detect Overlapping Squares
+# Detect Overlapping Squares [(Demo)](https://isumtk-overlapping-squares.vercel.app/)
 
 Draw squares on the screen on the click and whenever two squares overlap change the color of the second square
 
@@ -6,7 +6,7 @@ Draw squares on the screen on the click and whenever two squares overlap change 
 
 - If two or more squares overlap, change the background of the later square
 
-  [Demo](https://isumtk-overlapping-squares.vercel.app/)
+  
 ---
 
 ![Sample Screenshot](/overlapping-squares.png "Overlapping Square")
